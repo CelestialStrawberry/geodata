@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Electro Crystal",
+        "description": "Next to White Iron Chunk, not on mountain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.257813,
+          55.652798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.971191,
+          -73.283674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.168945,
+          -73.220358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.90625,
+          47.872144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.30957,
+          46.54375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.923828,
+          -17.769612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.945801,
+          -17.539297
+        ]
+      }
+    }
+  ]
+}
